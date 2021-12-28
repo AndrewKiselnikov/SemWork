@@ -20,14 +20,14 @@
 Или скачать архив и запустить MainSemWork.py
 
 # Окно входа
-[Alt-текст](https://github.com/AndrewKiselnikov/SemWork/blob/main/optional/Login_ui.PNG?raw=true "Окно входа")
+[*Клик*](https://github.com/AndrewKiselnikov/SemWork/blob/main/optional/Login_ui.PNG?raw=true "Окно входа")
 ____
 Это окно входа куда нужно ввести пароль и логин, для подключения к нашей БД
 Так же если необходимо можно запомнить логин и пароль(Сохранение происходит в реестре)
 ## Информация по коду с окном входа
 
 # Окно для работы с базой данных
-[Alt-текст](https://github.com/AndrewKiselnikov/SemWork/blob/main/optional/Work_ui.png?raw=true)
+[*Клик*](https://github.com/AndrewKiselnikov/SemWork/blob/main/optional/Work_ui.png?raw=true "Окно для работы с БД")
 ____
 Это окно для работы с БД,в правом верхнем углу мы выбираем коллекцию, далее она отображается в нашей табличке
 Так же мы можем изменять данные в БД и делать к ней запросы (Всё выполняется в синтаксисе JS)
