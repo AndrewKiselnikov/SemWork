@@ -1,0 +1,8 @@
+Все необходимые библиотеки для работы приложения
+1.json
+2.datetime
+3.pymongo
+4.PyQt5
+5.ast
+6.pprint
+7.playsound
