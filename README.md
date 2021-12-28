@@ -20,7 +20,7 @@
 Или скачать архив и запустить MainSemWork.py
 
 # Окно входа
-[Alt-текст](https://github.com/AndrewKiselnikov/SemWork/blob/main/optional/Login_ui.PNG?raw=true)
+[Alt-текст](https://github.com/AndrewKiselnikov/SemWork/blob/main/optional/Login_ui.PNG?raw=true "Окно входа")
 ____
 Это окно входа куда нужно ввести пароль и логин, для подключения к нашей БД
 Так же если необходимо можно запомнить логин и пароль(Сохранение происходит в реестре)
